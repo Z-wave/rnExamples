@@ -4,7 +4,7 @@ import {Text} from 'react-native'
 export default class User extends Component{
     render (){
         return (
-            <Text>我的</Text>
+            <Text style={{textAlign:"center",marginTop:50}}>我的</Text>
         )
     }
 }

@@ -4,7 +4,7 @@ import {Text} from 'react-native'
 export default class Message extends Component{
     render (){
         return (
-            <Text>消息</Text>
+            <Text style={{textAlign:"center",marginTop:50}}>消息</Text>
         )
     }
 }
